@@ -71,6 +71,7 @@ select {
     line-height: 19px;
     text-align: left;
     list-style-image: url(assets/images/ep_arrow-down.svg);
+    background-repeat: no-repeat;
 }
 
 .section-title {
